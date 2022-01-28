@@ -90,7 +90,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 #### Equipe de développement
 - **CARRIER Lisa** - ISI1 @[carrierl](https://git.utt.fr/carrierl/yellow-team-a21-gl02/-/commits/main?author=carrierl) et @[liza02](https://git.utt.fr/carrierl/yellow-team-a21-gl02/-/commits/main?author=liza02)
 
-#### Equipe de développement
+#### Equipe de maintenance
 - **HOUDEBERT Félix** - TC04 @[houdebef](https://git.utt.fr/houdebef)
 - **PHILIPPE Romain** - ISI1 @[philippr](https://git.utt.fr/philippr)
 - **KADANGHA Gnouyarou Marc-Arthur** -ISI2 @[kadanghg](https://git.utt.fr/kadanghg)
