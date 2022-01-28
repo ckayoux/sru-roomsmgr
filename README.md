@@ -1,4 +1,4 @@
-# yellow-team-a21-gl02
+# SRU-roomsmgr
 
 Projet GL02 @UTT 2021/2022
 
